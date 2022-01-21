@@ -18,9 +18,9 @@ public class Enumeration_Ex {
 		while (elements.hasMoreElements()) {
 			Integer n = elements.nextElement();
 			System.out.println(n);
-			
+
 		}
-        System.out.println("------------------------------------------");
+		System.out.println("------------------------------------------");
 		System.out.println(vector);
 	}
 
