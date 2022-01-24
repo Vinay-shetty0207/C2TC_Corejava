@@ -20,7 +20,7 @@ public class Generic_ex {
 		list.add("india");
 		list.add("bangalore");
 
-		String country = list.get(1);
+		String country = list.get(0);
 		System.out.println("element is "+ country);
 		
 		Iterator<String> itr=list.iterator();
