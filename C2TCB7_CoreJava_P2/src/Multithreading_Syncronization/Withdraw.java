@@ -1,11 +1,11 @@
 package Multithreading_Syncronization;
 
 import java.util.Scanner;
-public class Withdraw extends Thread
+public class Withdraw  
 {
     public static void main(String args[] )
     { 
-        int balance = 5000, withdraw, deposit;
+        int balance = 10000, withdraw, deposit;
         Scanner s = new Scanner(System.in);
         while(true)
         {
