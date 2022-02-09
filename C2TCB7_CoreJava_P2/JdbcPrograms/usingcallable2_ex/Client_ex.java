@@ -5,8 +5,6 @@ import java.sql.SQLException;
 import java.sql.CallableStatement;
 import java.sql.Statement;
 
-import com.mysql.cj.jdbc.CallableStatement;
-
 public class Client_ex {
 	static CallableStatement cs = null;
 	static Statement st = null;
