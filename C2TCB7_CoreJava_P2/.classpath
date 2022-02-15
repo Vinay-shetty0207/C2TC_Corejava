@@ -7,5 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="JdbcPrograms"/>
+	<classpathentry kind="src" path="MoneyMoney_bank_ass"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
